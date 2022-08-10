@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atticbat
 - 👀 I’m interested in sprite animation and game development
-- 🌱 I’m currently learning Clickteam Fusion
+- 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me kewin.hatlas@gmail.com
 
